@@ -1,5 +1,9 @@
 # Reinforcement-Learning-for-Robot-in-Maze
 
+<p align="center">
+<img src="https://github.com/samuelesm/Reinforcement-Learning-for-Robot-in-Maze/blob/main/maze.png">
+</p>
+
 This project is divided into three different parts. 
 
 1) The first part is an implementation of Policy Iteration or Value Iteration with the purpose of finding
@@ -16,3 +20,8 @@ reinforce a model. From that, we apply the Q-learning algorithm to the different
 models, experimenting with different learning and hyperparameter values. Last,
 we plot the comparisons with different parameter values in performing reinforce
 and Q-learning for the different environments we explore from gym.openai.
+
+## The following is the resulting Policy
+<p align="center">
+<img src="https://github.com/samuelesm/Reinforcement-Learning-for-Robot-in-Maze/blob/main/policy.png">
+</p>
