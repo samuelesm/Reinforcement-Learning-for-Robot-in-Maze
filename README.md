@@ -23,5 +23,10 @@ and Q-learning for the different environments we explore from gym.openai.
 
 ## The following is the resulting Policy
 <p align="center">
-<img src="https://github.com/samuelesm/Reinforcement-Learning-for-Robot-in-Maze/blob/main/policy.png">
+<img src="https://github.com/samuelesm/Reinforcement-Learning-for-Robot-in-Maze/blob/main/policy.png" width="800">
+</p>
+
+## Here is a graph compaing the RSME between optimal Q* and Qt
+<p align="center">
+<img src="https://github.com/samuelesm/Reinforcement-Learning-for-Robot-in-Maze/blob/main/RSME.png" width="500">
 </p>
